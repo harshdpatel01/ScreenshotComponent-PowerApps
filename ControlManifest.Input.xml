@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <manifest>
-  <control namespace="SSPCF" constructor="ScreenshotComponent" version="1.0.0" display-name-key="ScreenshotComponent" description-key="ScreenshotComponent for PowerApps" control-type="standard">
+  <control namespace="SSPCF" constructor="ScreenshotComponent" version="12.0.0" display-name-key="ScreenshotComponent" description-key="ScreenshotComponent for PowerApps" control-type="standard">
     <external-service-usage enabled="false">
     </external-service-usage>
 
